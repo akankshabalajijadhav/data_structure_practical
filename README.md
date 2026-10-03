@@ -39,6 +39,9 @@ Practical No4:-
 
 <img width="782" height="543" alt="image" src="https://github.com/user-attachments/assets/b2b973f9-7688-4482-b5fc-121de7e84cb0" />
 
+
+
+
 <img width="423" height="282" alt="image" src="https://github.com/user-attachments/assets/5b55ca58-d286-4bb0-bce2-a4ce274d2ce2" />
 
 
@@ -48,6 +51,9 @@ Practical No4:-
 _________________________________________________________________________________________________________
 
 Practical No5:-
+
+
+
 <img width="297" height="512" alt="image" src="https://github.com/user-attachments/assets/08ebaec7-1dd7-43fe-ae85-7c84150a5c43" />
 
 
