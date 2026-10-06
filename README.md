@@ -65,6 +65,19 @@ Practical No5:-
 
 _________________________________________________________________________________________________________
 
+practical no:-06:-
+
+
+<img width="937" height="660" alt="image" src="https://github.com/user-attachments/assets/c0d6a851-6282-4131-825c-4546623cc3cd" />
+
+
+
+
+
+
+<img width="429" height="481" alt="image" src="https://github.com/user-attachments/assets/56dcca09-f673-460d-b279-769a39171e03" />
+
+
 
 
 
